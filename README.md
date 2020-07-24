@@ -1,4 +1,4 @@
-# Sample Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://img.shields.io/badge/license-MIT-blueviolet)
+# Sample Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://img.shields.io/badge/license-MIT-blueviolet)
     
 ## Description
 
